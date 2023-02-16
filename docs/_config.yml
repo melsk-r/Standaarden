@@ -5,7 +5,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: melsk-r/jekyll-theme-haal-centraal
+remote_theme: melsk-r/jekyll-theme-vng-realisatie
 
 github: melsk-r/Standaarden
 
