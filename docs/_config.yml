@@ -1,0 +1,14 @@
+baseurl: "/Standaarden"
+apiname: "VNG Standaarden Landingspagina"
+url: "http://localhost:4000"
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: melsk-r/jekyll-theme-haal-centraal
+
+github: melsk-r/Standaarden
+
+theme: jekyll-theme-time-machine
+
+project_name: /Standaarden
