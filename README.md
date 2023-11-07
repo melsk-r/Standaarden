@@ -17,4 +17,4 @@ Hieronder vind je per topic links naar een of meerdere belangrijke repositories 
 | [Haal Centraal](https://github.com/VNG-Realisatie/Haal-Centraal/) | [StUF-ZKN](https://github.com/VNG-Realisatie/StUF-ZKN) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZKN) |
 |  | [StUF-ZTC](https://github.com/VNG-Realisatie/StUF-ZTC) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZTC) |
 |  |  |
-| [Alle API-specificatie repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Aapi-specification&type=repositories) | [Alle StUF repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Astuf&type=repositories) |
+| **[Alle API-specificatie repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Aapi-specification&type=repositories)** | **[Alle StUF repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Astuf&type=repositories)** |
