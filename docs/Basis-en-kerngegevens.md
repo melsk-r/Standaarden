@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: StUF Standaarden
+title: Basis- en kerngegevens
 ---
 # Basis- en kerngegevens
 
